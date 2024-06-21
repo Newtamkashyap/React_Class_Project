@@ -7,7 +7,7 @@ import '../node_modules/bootstrap/dist/css/bootstrap.css';
 import '../node_modules/bootstrap-icons/font/bootstrap-icons.css';
 import * as bootstrap from 'bootstrap';
 import { Login } from './component/login';
-import {  UserLogin } from './loginComponent/login';
+import { UserLogin } from './loginComponent/login';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
