@@ -5,15 +5,12 @@ import '../node_modules/bootstrap/dist/css/bootstrap.css';
 import '../node_modules/bootstrap-icons/font/bootstrap-icons.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { NetflixRegistration, Register } from './components/Register/netflix_register';
-import { NetflixIndex } from './components/index/netflix_index';
-import { NetflixHeader } from './components/header/netflix_header';
-import { NetflixMain } from './components/main/netflix_main';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <NetflixIndex/>
+    <App/>
   </React.StrictMode>
 );
 
