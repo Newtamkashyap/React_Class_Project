@@ -3,12 +3,13 @@ import './App.css';
 import { Login } from './component/login';
 
 import { UserLogin } from './loginComponent/login';
+import { IndexPage } from './loginComponent';
 
 
 function App() {
   return (
     <>
-      <UserLogin />
+      <IndexPage />
     </>
 
 
