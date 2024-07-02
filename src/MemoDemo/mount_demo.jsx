@@ -32,7 +32,7 @@ export const MountDemo = () => {
     return (
         <div className="container-fluid">
             <h2>Products Table</h2>
-            <table className="table table-hover">
+            <table className="table table-hover table-bordered table-light">
                 <thead>
                     <tr>
                         <th>Name</th>

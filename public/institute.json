@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Satish Gupta",
+        "course":"python",
+        "payment":6000,
+        "timing":"7:30AM"
+    },
+    {
+        "name":"Sudhakar Sharma",
+        "course":"React",
+        "payment":5000,
+        "timing":"11:30AM"
+    },
+    {
+        "name":"Shiva",
+        "course":"html,css",
+        "payment":2000,
+        "timing":"10:30AM"
+    },
+    {
+        "name":"Sudhakar",
+        "course":"Javascript",
+        "payment":5000,
+        "timing":"7:00AM"
+    },
+    {
+        "name":"Gupta",
+        "course":"Full stack python",
+        "payment":12000,
+        "timing":"9:00AM"
+    }
+]

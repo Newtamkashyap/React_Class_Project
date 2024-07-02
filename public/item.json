@@ -1,0 +1,29 @@
+[
+    {
+        "category": "grocery",
+        "product": "pulse",
+        "price": 40
+    },
+    {
+        "category": "grocery",
+        "product": "Rice",
+        "price": 100
+    },
+    {
+        "category": "grocery",
+        "product": "Masala",
+        "price": 10
+
+    },
+    {
+        "category": "grocery",
+        "product": "Oil",
+        "price": 500
+    },
+    {
+        "category": "grocery",
+        "product": "salt",
+        "price": 20
+    }
+
+]
