@@ -1,18 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import { UIDemo } from './Mui-components/ui-demo';
-import ButtonAppBar from './Mui-components/appBar';
-import BasicGrid from './grid';
-import RecipeReviewCard from './Mui-components/card';
+import { Fakestore } from './fakestore/fakestore';
 
 function App() {
   return (
     <>
-
-    <UIDemo/>
-    <ButtonAppBar/>
-    <BasicGrid/>
-    <RecipeReviewCard/>
+    <Fakestore/>
     </>
   );
 }
